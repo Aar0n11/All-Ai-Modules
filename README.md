@@ -3,6 +3,7 @@
 
 
 To run this, open Ai modules, and run the Api_key shortcut, enter your api key, then run the Main shortcut. You will be able to run all the ai modules from a dropdown there.
+After first run, you do not need to run Api_key.
 
 
 For the text section, there are 4 main types of ai.
@@ -15,3 +16,7 @@ For the code section there are 2 types.
 
 Davinci - the most powerful
 Cushman - the powerful and fast
+
+
+
+Visit openai.com for more information
